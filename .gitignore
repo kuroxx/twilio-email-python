@@ -3,6 +3,9 @@
 .env.local
 *.env
 
+# Local recipient list
+recipients.txt
+
 # Python
 __pycache__/
 *.py[cod]

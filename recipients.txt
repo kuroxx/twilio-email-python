@@ -1,4 +1,0 @@
-# One email address per line.
-# Lines starting with # and blank lines are ignored.
-test@world.com
-a-example@example.com
